@@ -12,6 +12,6 @@ It’s optimized for container-based operations and can be seamlessly deployed i
 - Unlimited & Free  
 - Stable operation with 5+ years of experience  
 
-**Service page:** https://noderize.mushsw.com  
+**Service page:** https://noderize.com  
 **Company website:** https://mushsw.com  
 **Docker Hub:** https://hub.docker.com/u/mushsw
